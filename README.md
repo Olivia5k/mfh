@@ -29,7 +29,8 @@ software development:
 ## Code of conduct
 
 For this to work as smoothly as possible, we need a code of conduct for how we
-do things. These can be changed if we just talk about it!
+do things. These codes are applied even before we start working (aka, when
+you're reading up) and they can be changed if we just talk about it!
 
 * All communication between us while working on this will be in English, even
   if (especially if!) IRL.
@@ -53,3 +54,13 @@ do things. These can be changed if we just talk about it!
 * Be as verbose as possible at all times. This helps me follow how you think,
   and is actually a valuable skill in day-to-day development as well. It's
   always better to provide more details than not.
+
+
+## Prerequisites
+
+Before we can start developing, you need some knowledge that you do not yet
+possess. Therefore, I have a couple of things you need to read.
+
+* [Learning Python][python]
+
+[python]: python/
