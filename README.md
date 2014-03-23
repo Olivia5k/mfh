@@ -62,5 +62,7 @@ Before we can start developing, you need some knowledge that you do not yet
 possess. Therefore, I have a couple of things you need to read.
 
 * [Learning Python][python]
+* [Learning vim][vim]
 
 [python]: python/
+[vim]: vim/
